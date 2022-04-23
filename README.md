@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lukewagener
-- 👀 I’m interested in software development
+- 👀 I’m interested in software/web development
 - 🌱 I’m currently learning Java, C#, HTML, CSS
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me lukewagener1@gmail.com
