@@ -4,7 +4,7 @@ Hi 👋 My name is Lukas Wagener
 Business IT student at Red River College Polytechnic
 ----------------------------------------------------
 
-I am an aspiring software/web developer currently in my second term of the BIT program at RRCP.
+I am an aspiring software/web developer currently in my fourth term of the BIT program at RRCP.
 
 * 🌍  I'm based in Winnipeg, Manitoba
 * ✉️  You can contact me at [lukewagener1@gmail.com](mailto:lukewagener1@gmail.com)
