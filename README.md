@@ -8,7 +8,7 @@ I am an aspiring software/web developer currently in my fourth term of the BIT p
 
 * 🌍  I'm based in Winnipeg, Manitoba
 * ✉️  You can contact me at [lukewagener1@gmail.com](mailto:lukewagener1@gmail.com)
-* 🧠  I'm learning JAVA, C#, HTML, CSS, JS, SQL, Python
+* 🧠  I'm learning JAVA, C#, HTML, CSS, JS, React, NextJS, SQL, Python
 * 🤝  I'm open to collaborating on anything!
 
 ### Skills
